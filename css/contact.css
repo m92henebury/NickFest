@@ -1,0 +1,57 @@
+html {
+    background-image: url("../images/grey_wash_wall.png");
+}
+body { 
+	background-color: ;
+	width: 1600px;
+}
+header {
+    width: 1000px;
+    height: 50px;
+    border-style: double;
+    border-color:#2B5754;
+    background-color: white;
+    border-radius: 20px;
+    border-width: 15px;
+    margin: 2% 17%;
+    color: ;
+    text-align: center;
+    padding: 15px;
+    font-size: 24px;
+    font-family: Verdana;
+    
+}
+#email {
+    width: 320px;
+    height: 430px;
+    border-style: double;
+    border-color:#2B5754;
+    background-color: white;
+    border-radius: 20px;
+    border-width: 15px;
+    text-align: center;
+    margin-left: 7%;
+    margin-bottom: 3%;
+    padding: 10px;
+    float: left;
+}
+#form{
+    width: 350px;
+    height: 510px;
+    border-style: double;
+    border-color:#2B5754;
+    background-color: white;
+    border-radius: 20px;
+    border-width: 15px;
+    padding: 10px;
+    margin-left: 37%;
+    clear: both;
+}
+#music {
+    margin-left: 19%;
+}
+#headpic {
+    float: left;
+    margin-left: 316px;
+    margin-top: 26px;
+}
